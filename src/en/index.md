@@ -8,13 +8,13 @@ description: This is a cool resume theme for hexo.
 resume_title: Yu Zhaohai's Resume
 # Job Applicant Name
 name: Yu Zhaohai
-avatar: /yzh.github.io/avatar.png
+avatar: /avatar.png
 # Contact
 contact:
   # URL
   - icon: fas fa-globe-europe
-    text: yzh.github.io
-    url: https://0q7e1.github.io/yzh.github.io
+    text: 0q7e1.github.io
+    url: https://0q7e1.github.io
   # Email
   - icon: fas fa-envelope
     text: yuzhaohai@126.com
@@ -27,7 +27,7 @@ contact:
 
 {% raw %}
 <center>
-<a href='/yzh.github.io/en/'>English</a> | <a href='/yzh.github.io/'>简体中文</a>
+<a href='/en/'>English</a> | <a href='/'>简体中文</a>
 </center>
 {% endraw %}
 

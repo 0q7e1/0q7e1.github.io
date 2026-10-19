@@ -8,12 +8,12 @@ description: 男，已婚已育；13年入行iOS开发，有丰富的独立开�
 resume_title: 于兆海的简历
 # 应聘者姓名
 name: 于兆海
-avatar: /yzh.github.io/avatar.png
+avatar: /avatar.png
 # 联系方式
 contact:
   - icon: fas fa-globe-asia
-    text: yzh.github.io
-    url: https://0q7e1.github.io/yzh.github.io
+    text: 0q7e1.github.io
+    url: https://0q7e1.github.io
   # 邮箱
   - icon: fas fa-envelope
     text: yuzhaohai@126.com
@@ -26,7 +26,7 @@ contact:
 
 {% raw %}
 <center>
-<a href='/yzh.github.io/en/'>English</a> | <a href='/yzh.github.io/'>简体中文</a>
+<a href='/en/'>English</a> | <a href='/'>简体中文</a>
 </center>
 {% endraw %}
 
@@ -162,5 +162,5 @@ function cmCopied(){
 
 ## <i class="fas fa-flag"></i> 个人探索
 
-[个人博客](https://0q7e1.github.io/yzh.github.io/blog/)<br>
-[JSON 树视图](https://0q7e1.github.io/yzh.github.io/html/awsome/json-tree.html)<br>
+[个人博客](https://0q7e1.github.io/blog/)<br>
+[JSON 树视图](https://0q7e1.github.io/html/awsome/json-tree.html)<br>

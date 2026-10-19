@@ -3,9 +3,9 @@
 # Site
 language: zh-CN
 
-shortcut_icon: /yzh.github.io/favicon/favicon.ico
-favicon: /yzh.github.io/favicon/favicon-96x96.png
-avatar: /yzh.github.io/avatar.png
+shortcut_icon: /favicon/favicon.ico
+favicon: /favicon/favicon-96x96.png
+avatar: /avatar.png
 
 # 主题
 theme: resume
@@ -13,9 +13,9 @@ theme_config:
   robots: index,follow
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: https://0q7e1.github.io/yzh.github.io/
+url: https://0q7e1.github.io/
 # url: http://localhost:4000
-root: /yzh.github.io/
+root: /
 permalink: posts/:title/
 tag_dir: tags
 archive_dir: archives
@@ -107,13 +107,13 @@ import:
   meta:
   - "<meta name='theme-color' content='#FFFFFF'>"
   - "<meta name='msapplication-TileColor' content='#1BC3FB'>"
-  - "<meta name='msapplication-config' content='/yzh.github.io/favicon/browserconfig.xml'>"
+  - "<meta name='msapplication-config' content='/favicon/browserconfig.xml'>"
   link:
-  - "<link rel='shortcut icon' type='image/x-icon' href='/yzh.github.io/favicon/favicon.ico'>"
-  - "<link rel='icon' type='image/x-icon' sizes='32x32' href='/yzh.github.io/favicon/favicon-32x32.png'>"
-  - "<link rel='apple-touch-icon' type='image/png' sizes='180x180' href='/yzh.github.io/favicon/apple-touch-icon.png'>"
-  - "<link rel='mask-icon' color='#1E5AA8' href='/yzh.github.io/favicon/favicon.svg'>"
-  - "<link rel='manifest' href='/yzh.github.io/favicon/site.webmanifest'>"
+  - "<link rel='shortcut icon' type='image/x-icon' href='/favicon/favicon.ico'>"
+  - "<link rel='icon' type='image/x-icon' sizes='32x32' href='/favicon/favicon-32x32.png'>"
+  - "<link rel='apple-touch-icon' type='image/png' sizes='180x180' href='/favicon/apple-touch-icon.png'>"
+  - "<link rel='mask-icon' color='#1E5AA8' href='/favicon/favicon.svg'>"
+  - "<link rel='manifest' href='/favicon/site.webmanifest'>"
   # script:
 
 # Offline v2 版写法不允许写到 _config.yml 中
@@ -159,7 +159,7 @@ lazyload:
 ## Docs: http://zespia.tw/hexo/docs/deployment.html
 deploy:
   - type: git
-    repo: https://github.com/0q7e1/yzh.github.io.git
+    repo: https://github.com/0q7e1/0q7e1.github.io.git
     branch: gh-pages
     message: update pages
 
